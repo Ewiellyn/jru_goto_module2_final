@@ -1,2 +1,2 @@
-public class Predator {
+public class Predator extends Animal{
 }
